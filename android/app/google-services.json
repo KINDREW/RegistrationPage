@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797066671846",
+    "project_id": "registrationpage-dfc1a",
+    "storage_bucket": "registrationpage-dfc1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797066671846:android:ecb21f037ce1b951412d27",
+        "android_client_info": {
+          "package_name": "com.example.registrationpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VUVCuBBEWR6WoTxALqnyV7jOfVP07qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
